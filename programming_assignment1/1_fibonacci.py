@@ -1,3 +1,5 @@
+# Uses python3
+
 import fibonacci
 
 n = int(input())
